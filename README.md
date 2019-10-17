@@ -1,4 +1,6 @@
 ### [php相关](#php相关-1)
+### [git](#git)
+### [swoole](#swoole-1)
 ### [docker](#docker-1)
 ### [mysql](#mysql-1)
 ### [tool](#tool-1)
@@ -6,6 +8,9 @@
 ### [book](#book-1)
 ### [环境](#环境-1)
 ### [中间件](#中间件-1)
+### [编辑器相关](#编辑器相关-1)
+### [windows软件](#windows)
+### [个人简历](#个人简历)
 
 <h3 id='php相关'>php相关</h3>
 
@@ -23,9 +28,22 @@
 - [Laravel 5.1 LTS 速查表](https://cs.phphub.org/#Configuration) — Laravel 5.1 LTS 速查表
 - [PHP 标准规范中文版](https://psr.phphub.org/) — PHP 标准规范中文版
 
+<h3 id='git'>git</h3>
+
+- [git命令](https://suyuanen.github.io/2017/02/15/Git指令整理/) — git命令
+- [git-scm](https://git-scm.com/book/zh/v2) — git-scm.com
+
+
+<h3 id='docker'>docker</h3>
+
+- [swoole 4.x lts速查表](https://toxmc.github.io/swoole-cs.github.io/) — swoole 4.x lts速查表
+- [swoole中文文档](https://github.com/swoole/swoole-wiki) — swoole中文文档
+
+
 <h3 id='docker'>docker</h3>
 
 - [Docker 快速入门](http://www.dahouduan.com/2018/08/21/docker-kuai-su-ru-meng/) — Docker 快速入门（精编版）
+- [Docker入门](http://www.10tiao.com/html/575/201906/2655824742/1.html) — Docker入门
 
 
 <h3 id='mysql'>mysql</h3>
@@ -41,6 +59,7 @@
 - [GitLab配置ssh key](https://www.cnblogs.com/hafiz/p/8146324.html) — GitLab配置ssh key
 - [google在线文档](https://docs.google.com/spreadsheets/u/0/) — google在线文档
 - [腾讯在线文档](https://docs.qq.com/desktop/) — 腾讯在线文档
+- [字段命名工具](https://unbug.github.io/codelf) — 字段命名工具
 
 
 <h3 id='photo'>photo</h3>
@@ -63,9 +82,8 @@
 
 - [优质kindle电子书下载](https://sobooks.cc/) — 优质kindle电子书下载
 - [前言-新生](https://b.xinshengdaxue.com/) — 前言-新生
-- [全历史](https://www.allhistory.com/?utm_source=wechat_session&utm_medium=social&utm_oi=615287332660711424) — 全历史
+- [全历史](https://www.allhistory.com/) — 全历史
 - [李笑来](https://legacy.gitbook.com/@xiaolai) — 李笑来
-
 
 
 <h3 id='环境'>环境</h3>
@@ -86,3 +104,18 @@
 
 
 
+<h3 id='编辑器相关'>编辑器相关</h3>
+
+- [vscode配置](https://learnku.com/laravel/t/27041) — PHPStrom 转 VSCode 折腾记录（配置分享）
+
+
+
+<h3 id='windows'>windsws破解软件</h3>
+
+- [果核剥壳](https://www.ghpym.com/) - 果核剥壳
+- [Iris pro](https://t00y.com/dir/7369060-34766667-b983da) - Iris Pro1.1.9.exe
+
+
+<h3 id='个人简历'>个人简历</h3>
+
+- [个人简历](http://www.gerenjianli.com/) - 个人简历
