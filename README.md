@@ -27,6 +27,7 @@
 - [基于PCNTL的PHP并发编程](http://blog.csdn.net/huyanping/article/details/18280839) — 基于PCNTL的PHP并发编程
 - [Laravel 5.1 LTS 速查表](https://cs.phphub.org/#Configuration) — Laravel 5.1 LTS 速查表
 - [PHP 标准规范中文版](https://psr.phphub.org/) — PHP 标准规范中文版
+- [laravel 社区 Wiki](https://learnku.com/laravel/wikis) - laravel 社区 wiki
 
 <h3 id='git'>git</h3>
 
