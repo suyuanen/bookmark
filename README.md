@@ -91,6 +91,7 @@
 <h3 id='环境'>环境</h3>
 
 - [Homestead安装PHP Redis](https://segmentfault.com/a/1190000016606114) — Homestead安装PHP Redis扩展
+- [重量级开发环境：Homestead](https://xueyuanjun.com/post/20925) - 重量级开发环境：Homestead
 
 
 <h3 id='中间件'>中间件</h3>
