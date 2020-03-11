@@ -23,10 +23,12 @@
 - [PHP多进程处理并行处理任务实例](http://www.cnblogs.com/bourneli/archive/2012/07/06/2579893.html) — PHP多进程处理并行处理任务实例 - bourneli - 博客园
 - [php curl_multi_select 死循环原因及相应处理办法](http://blog.marchtea.com/archives/109) — php curl_multi_select 死循环原因及相应处理办法
 - [windows php扩展下载](http://windows.php.net/downloads/pecl/releases/) — windows php扩展下载
+- [Linux php扩展下载](http://pecl.php.net/package-search.php) - Linux php扩展搜索
 - [PHP 之道](http://laravel-china.github.io/php-the-right-way/) — PHP 之道
 - [基于PCNTL的PHP并发编程](http://blog.csdn.net/huyanping/article/details/18280839) — 基于PCNTL的PHP并发编程
 - [Laravel 5.1 LTS 速查表](https://cs.phphub.org/#Configuration) — Laravel 5.1 LTS 速查表
 - [PHP 标准规范中文版](https://psr.phphub.org/) — PHP 标准规范中文版
+- [laravel 社区 Wiki](https://learnku.com/laravel/wikis) - laravel 社区 wiki
 
 <h3 id='git'>git</h3>
 
@@ -90,6 +92,7 @@
 <h3 id='环境'>环境</h3>
 
 - [Homestead安装PHP Redis](https://segmentfault.com/a/1190000016606114) — Homestead安装PHP Redis扩展
+- [重量级开发环境：Homestead](https://xueyuanjun.com/post/20925) - 重量级开发环境：Homestead
 
 
 <h3 id='中间件'>中间件</h3>
