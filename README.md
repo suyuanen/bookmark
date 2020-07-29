@@ -94,7 +94,7 @@
 
 - [Homestead安装PHP Redis](https://segmentfault.com/a/1190000016606114) — Homestead安装PHP Redis扩展
 - [重量级开发环境：Homestead](https://xueyuanjun.com/post/20925) - 重量级开发环境：Homestead
-- [MSDN,我告诉你] (https://msdn.itellyou.cn/) - MSDN,我告诉你
+- [MSDN,我告诉你](https://msdn.itellyou.cn/) - MSDN,我告诉你
 
 
 <h3 id='中间件'>中间件</h3>
