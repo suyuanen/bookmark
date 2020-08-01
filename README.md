@@ -29,6 +29,7 @@
 - [Laravel 5.1 LTS 速查表](https://cs.phphub.org/#Configuration) — Laravel 5.1 LTS 速查表
 - [PHP 标准规范中文版](http://phpfig.p2hp.com/) — PHP 标准规范中文版
 - [laravel 社区 Wiki](https://learnku.com/laravel/wikis) - laravel 社区 wiki
+- [php采集工具 QueryList](http://querylist.cc/docs/guide/v4/PhantomJS) - PHP采集工具QueryList
 
 <h3 id='git'>git</h3>
 
