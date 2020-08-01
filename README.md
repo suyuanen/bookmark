@@ -30,6 +30,7 @@
 - [PHP 标准规范中文版](http://phpfig.p2hp.com/) — PHP 标准规范中文版
 - [laravel 社区 Wiki](https://learnku.com/laravel/wikis) - laravel 社区 wiki
 - [php采集工具 QueryList](http://querylist.cc/docs/guide/v4/PhantomJS) - PHP采集工具QueryList
+- [php采集 QueryList-PhantomJS](https://github.com/jae-jae/QueryList-PhantomJS) - QueryList-PhantomJS
 
 <h3 id='git'>git</h3>
 
