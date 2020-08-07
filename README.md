@@ -97,6 +97,8 @@
 - [Homestead安装PHP Redis](https://segmentfault.com/a/1190000016606114) — Homestead安装PHP Redis扩展
 - [重量级开发环境：Homestead](https://xueyuanjun.com/post/20925) - 重量级开发环境：Homestead
 - [MSDN,我告诉你](https://msdn.itellyou.cn/) - MSDN,我告诉你
+- [Linux浏览器驱动](http://npm.taobao.org/mirrors/chromedriver/) - Linux浏览器驱动
+- [Linux浏览器](https://www.ubuntuupdates.org/ppa/google_chrome?dist=stable) - Linux浏览器
 
 
 <h3 id='中间件'>中间件</h3>
