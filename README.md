@@ -37,6 +37,7 @@
 <h3 id='golang'>golang</h3>
 
 - [golang文档](http://www.topgoer.com/) — golang文档
+- [gin中文文档](http://wen.topgoer.com/docs/ginkuangjia/ginkuangjia-1c50hfaag99k2) - gin中文文档
 
 <h3 id='git'>git</h3>
 
