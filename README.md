@@ -38,6 +38,7 @@
 <h3 id='前端框架'>前端框架</h3>
 
 - [wantUI](https://youzan.github.io/vant-weapp/#/intro) - wantUI
+- [want weapp](https://vant-contrib.gitee.io/vant/#/zh-CN/quickstart) - want weapp vue版
 
 <h3 id='golang'>golang</h3>
 
