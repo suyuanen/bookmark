@@ -39,6 +39,7 @@
 
 - [wantUI](https://youzan.github.io/vant-weapp/#/intro) - wantUI
 - [want weapp](https://vant-contrib.gitee.io/vant/#/zh-CN/quickstart) - want weapp vue版
+- [H5代码生成器](http://bbs.magicalcoder.com/) H5代码生成器
 
 <h3 id='golang'>golang</h3>
 
