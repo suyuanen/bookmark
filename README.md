@@ -46,6 +46,7 @@
 
 - [golang文档](http://www.topgoer.com/) — golang文档
 - [gin中文文档](http://wen.topgoer.com/docs/ginkuangjia/ginkuangjia-1c50hfaag99k2) - gin中文文档
+- [go入门指南](https://learnku.com/docs/the-way-to-go/book-intro/3560) - go入门指南
 
 <h3 id='git'>git</h3>
 
