@@ -109,6 +109,7 @@
 - [前言-新生](https://b.xinshengdaxue.com/) — 前言-新生
 - [全历史](https://www.allhistory.com/) — 全历史
 - [李笑来](https://legacy.gitbook.com/@xiaolai) — 李笑来
+- [Z图书馆](https://b-ok.org/) - Z图书馆
 
 
 <h3 id='环境'>环境</h3>
