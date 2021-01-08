@@ -48,6 +48,7 @@
 - [gin中文文档](http://wen.topgoer.com/docs/ginkuangjia/ginkuangjia-1c50hfaag99k2) - gin中文文档
 - [go入门指南](https://learnku.com/docs/the-way-to-go/book-intro/3560) - go入门指南
 - [golang 及框架文档 比较全](http://www.topgoer.com/) - golang及框架
+- [php函数转go](https://www.php2golang.com/) php函数转go
 
 <h3 id='git'>git</h3>
 
