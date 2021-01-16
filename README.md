@@ -146,6 +146,7 @@
 
 - [果核剥壳](https://www.ghpym.com/) - 果核剥壳
 - [Iris pro](https://t00y.com/dir/7369060-34766667-b983da) - Iris Pro1.1.9.exe
+- [全库软件](https://www.qkuser.com/) - 全库软件
 
 
 <h3 id='个人简历'>个人简历</h3>
