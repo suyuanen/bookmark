@@ -85,6 +85,7 @@
 - [内网穿透](https://ngrok.com) - ngrok
 - [VPN](https://darrenliuwei.github.io/kxsw/) - VPN
 - [起兮深深](http://matting.deeplor.com/#/) - 在线一键抠图
+- [万能解析](https://vip.52jiexi.top/?url=) -- 添加收藏 `javascript:(function(){window.open("https://vip.52jiexi.top/?url=" + document.URL, "_blank");})()`
 
 
 <h3 id='photo'>photo</h3>
