@@ -146,6 +146,7 @@
 - [全历史](https://www.allhistory.com/) - 全历史
 - [测试视频](http://samples.mplayerhq.hu/) - 测试视频
 
-<h3 id='沙雕app'>沙雕App</h3>
+<h3 id='乱七八糟'>乱七八糟</h3>
 
 - [沙雕App](https://shadiao.app/) - 沙雕App
+- [中华珍宝网](www.ltfc.net) - 中华珍宝网
