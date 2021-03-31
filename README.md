@@ -138,6 +138,7 @@
 <h3 id='个人简历'>个人简历</h3>
 
 - [个人简历](http://www.gerenjianli.com/) - 个人简历
+- [TTP/WORD/EXCEL模板](http://www.officeplus.cn/Template/Home.shtml) - TTP/WORD/EXCEL模板
 
 
 <h3 id='历史'>历史</h3>
