@@ -26,6 +26,7 @@
 - [H5代码生成器](http://bbs.magicalcoder.com/) H5代码生成器
 - [elementUI](https://element.eleme.cn/2.0/#/zh-CN/component/installation) elementUI
 - [x-admin](http://x.xuebingsi.com/) x-admin layui后台前端框架
+- [echarts](https://echarts.apache.org/zh/index.html) echarts 图形插件
 
 <h3 id='golang'>golang</h3>
 
